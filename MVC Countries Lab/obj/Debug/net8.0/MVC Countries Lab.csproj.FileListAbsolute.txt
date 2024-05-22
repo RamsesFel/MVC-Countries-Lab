@@ -1,0 +1,14 @@
+C:\Users\Ramses\source\repos\Grand Circus\MVC Countries Lab\MVC Countries Lab\bin\Debug\net8.0\MVC Countries Lab.exe
+C:\Users\Ramses\source\repos\Grand Circus\MVC Countries Lab\MVC Countries Lab\bin\Debug\net8.0\MVC Countries Lab.deps.json
+C:\Users\Ramses\source\repos\Grand Circus\MVC Countries Lab\MVC Countries Lab\bin\Debug\net8.0\MVC Countries Lab.runtimeconfig.json
+C:\Users\Ramses\source\repos\Grand Circus\MVC Countries Lab\MVC Countries Lab\bin\Debug\net8.0\MVC Countries Lab.dll
+C:\Users\Ramses\source\repos\Grand Circus\MVC Countries Lab\MVC Countries Lab\bin\Debug\net8.0\MVC Countries Lab.pdb
+C:\Users\Ramses\source\repos\Grand Circus\MVC Countries Lab\MVC Countries Lab\obj\Debug\net8.0\MVC Countries Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramses\source\repos\Grand Circus\MVC Countries Lab\MVC Countries Lab\obj\Debug\net8.0\MVC Countries Lab.AssemblyInfoInputs.cache
+C:\Users\Ramses\source\repos\Grand Circus\MVC Countries Lab\MVC Countries Lab\obj\Debug\net8.0\MVC Countries Lab.AssemblyInfo.cs
+C:\Users\Ramses\source\repos\Grand Circus\MVC Countries Lab\MVC Countries Lab\obj\Debug\net8.0\MVC Countries Lab.csproj.CoreCompileInputs.cache
+C:\Users\Ramses\source\repos\Grand Circus\MVC Countries Lab\MVC Countries Lab\obj\Debug\net8.0\MVC Countries Lab.dll
+C:\Users\Ramses\source\repos\Grand Circus\MVC Countries Lab\MVC Countries Lab\obj\Debug\net8.0\refint\MVC Countries Lab.dll
+C:\Users\Ramses\source\repos\Grand Circus\MVC Countries Lab\MVC Countries Lab\obj\Debug\net8.0\MVC Countries Lab.pdb
+C:\Users\Ramses\source\repos\Grand Circus\MVC Countries Lab\MVC Countries Lab\obj\Debug\net8.0\MVC Countries Lab.genruntimeconfig.cache
+C:\Users\Ramses\source\repos\Grand Circus\MVC Countries Lab\MVC Countries Lab\obj\Debug\net8.0\ref\MVC Countries Lab.dll
