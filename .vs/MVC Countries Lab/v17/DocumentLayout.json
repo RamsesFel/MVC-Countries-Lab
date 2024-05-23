@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\MVC Countries Lab\\",
+  "WorkspaceRootPath": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Labs\\Week 4\\MVC Countries Lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B95CC667-C656-44FE-838A-276784FA6CCE}|MVC Countries Lab\\MVC Countries Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\mvc countries lab\\mvc countries lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B95CC667-C656-44FE-838A-276784FA6CCE}|MVC Countries Lab\\MVC Countries Lab.csproj|solutionrelative:mvc countries lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B95CC667-C656-44FE-838A-276784FA6CCE}|MVC Countries Lab\\MVC Countries Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\mvc countries lab\\mvc countries lab\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B95CC667-C656-44FE-838A-276784FA6CCE}|MVC Countries Lab\\MVC Countries Lab.csproj|solutionrelative:mvc countries lab\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B95CC667-C656-44FE-838A-276784FA6CCE}|MVC Countries Lab\\MVC Countries Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\mvc countries lab\\mvc countries lab\\countryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B95CC667-C656-44FE-838A-276784FA6CCE}|MVC Countries Lab\\MVC Countries Lab.csproj|solutionrelative:mvc countries lab\\countryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B95CC667-C656-44FE-838A-276784FA6CCE}|MVC Countries Lab\\MVC Countries Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\mvc countries lab\\mvc countries lab\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B95CC667-C656-44FE-838A-276784FA6CCE}|MVC Countries Lab\\MVC Countries Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\labs\\week 4\\mvc countries lab\\mvc countries lab\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B95CC667-C656-44FE-838A-276784FA6CCE}|MVC Countries Lab\\MVC Countries Lab.csproj|solutionrelative:mvc countries lab\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B95CC667-C656-44FE-838A-276784FA6CCE}|MVC Countries Lab\\MVC Countries Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\mvc countries lab\\mvc countries lab\\countrylistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B95CC667-C656-44FE-838A-276784FA6CCE}|MVC Countries Lab\\MVC Countries Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\labs\\week 4\\mvc countries lab\\mvc countries lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95CC667-C656-44FE-838A-276784FA6CCE}|MVC Countries Lab\\MVC Countries Lab.csproj|solutionrelative:mvc countries lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95CC667-C656-44FE-838A-276784FA6CCE}|MVC Countries Lab\\MVC Countries Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\labs\\week 4\\mvc countries lab\\mvc countries lab\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95CC667-C656-44FE-838A-276784FA6CCE}|MVC Countries Lab\\MVC Countries Lab.csproj|solutionrelative:mvc countries lab\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95CC667-C656-44FE-838A-276784FA6CCE}|MVC Countries Lab\\MVC Countries Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\labs\\week 4\\mvc countries lab\\mvc countries lab\\countryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95CC667-C656-44FE-838A-276784FA6CCE}|MVC Countries Lab\\MVC Countries Lab.csproj|solutionrelative:mvc countries lab\\countryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95CC667-C656-44FE-838A-276784FA6CCE}|MVC Countries Lab\\MVC Countries Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\labs\\week 4\\mvc countries lab\\mvc countries lab\\countrylistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B95CC667-C656-44FE-838A-276784FA6CCE}|MVC Countries Lab\\MVC Countries Lab.csproj|solutionrelative:mvc countries lab\\countrylistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CountryController.cs",
-              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\MVC Countries Lab\\MVC Countries Lab\\CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Labs\\Week 4\\MVC Countries Lab\\MVC Countries Lab\\CountryController.cs",
               "RelativeDocumentMoniker": "MVC Countries Lab\\CountryController.cs",
-              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\MVC Countries Lab\\MVC Countries Lab\\CountryController.cs",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Labs\\Week 4\\MVC Countries Lab\\MVC Countries Lab\\CountryController.cs",
               "RelativeToolTip": "MVC Countries Lab\\CountryController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwDAAAAARAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwCUAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T18:45:09.272Z",
               "EditorCaption": ""
@@ -49,48 +49,45 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "CountryListView.cs",
-              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\MVC Countries Lab\\MVC Countries Lab\\CountryListView.cs",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Labs\\Week 4\\MVC Countries Lab\\MVC Countries Lab\\CountryListView.cs",
               "RelativeDocumentMoniker": "MVC Countries Lab\\CountryListView.cs",
-              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\MVC Countries Lab\\MVC Countries Lab\\CountryListView.cs",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Labs\\Week 4\\MVC Countries Lab\\MVC Countries Lab\\CountryListView.cs",
               "RelativeToolTip": "MVC Countries Lab\\CountryListView.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:41:11.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T18:41:11.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountryView.cs",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Labs\\Week 4\\MVC Countries Lab\\MVC Countries Lab\\CountryView.cs",
+              "RelativeDocumentMoniker": "MVC Countries Lab\\CountryView.cs",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Labs\\Week 4\\MVC Countries Lab\\MVC Countries Lab\\CountryView.cs",
+              "RelativeToolTip": "MVC Countries Lab\\CountryView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:33:29.15Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CountryView.cs",
-              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\MVC Countries Lab\\MVC Countries Lab\\CountryView.cs",
-              "RelativeDocumentMoniker": "MVC Countries Lab\\CountryView.cs",
-              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\MVC Countries Lab\\MVC Countries Lab\\CountryView.cs",
-              "RelativeToolTip": "MVC Countries Lab\\CountryView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAACbAAAA",
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Labs\\Week 4\\MVC Countries Lab\\MVC Countries Lab\\Country.cs",
+              "RelativeDocumentMoniker": "MVC Countries Lab\\Country.cs",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Labs\\Week 4\\MVC Countries Lab\\MVC Countries Lab\\Country.cs",
+              "RelativeToolTip": "MVC Countries Lab\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:33:29.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T18:31:46.419Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\MVC Countries Lab\\MVC Countries Lab\\Country.cs",
-              "RelativeDocumentMoniker": "MVC Countries Lab\\Country.cs",
-              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\MVC Countries Lab\\MVC Countries Lab\\Country.cs",
-              "RelativeToolTip": "MVC Countries Lab\\Country.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:31:46.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\MVC Countries Lab\\MVC Countries Lab\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Labs\\Week 4\\MVC Countries Lab\\MVC Countries Lab\\Program.cs",
               "RelativeDocumentMoniker": "MVC Countries Lab\\Program.cs",
-              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\MVC Countries Lab\\MVC Countries Lab\\Program.cs",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Labs\\Week 4\\MVC Countries Lab\\MVC Countries Lab\\Program.cs",
               "RelativeToolTip": "MVC Countries Lab\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

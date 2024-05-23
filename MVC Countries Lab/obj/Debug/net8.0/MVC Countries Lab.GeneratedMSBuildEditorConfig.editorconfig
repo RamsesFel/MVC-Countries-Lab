@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVC_Countries_Lab
-build_property.ProjectDir = C:\Users\Ramses\source\repos\Grand Circus\MVC Countries Lab\MVC Countries Lab\
+build_property.ProjectDir = C:\Users\Ramses\source\repos\Grand Circus\Labs\Week 4\MVC Countries Lab\MVC Countries Lab\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

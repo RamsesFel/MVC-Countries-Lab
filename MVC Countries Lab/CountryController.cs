@@ -35,7 +35,7 @@ namespace MVC_Countries_Lab
                 CountryListView view = new CountryListView(CountryDB);
                 Console.WriteLine("Hello, welcome to the country app. Please select a country from the following list:");
                 view.Display();
-                if (int.TryParse(Console.ReadLine(), out index) == false || index < 0 || index > CountryDB.Count)
+                if (int.TryParse(Console.ReadLine(), out index) == false || index < 0 || index >= CountryDB.Count)
                 {
                     Console.WriteLine("Invalid Input");
                     continue;

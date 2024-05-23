@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\MVC Countries Lab\\MVC Countries Lab\\MVC Countries Lab.csproj": {}
+    "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Labs\\Week 4\\MVC Countries Lab\\MVC Countries Lab\\MVC Countries Lab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\MVC Countries Lab\\MVC Countries Lab\\MVC Countries Lab.csproj": {
+    "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Labs\\Week 4\\MVC Countries Lab\\MVC Countries Lab\\MVC Countries Lab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\MVC Countries Lab\\MVC Countries Lab\\MVC Countries Lab.csproj",
+        "projectUniqueName": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Labs\\Week 4\\MVC Countries Lab\\MVC Countries Lab\\MVC Countries Lab.csproj",
         "projectName": "MVC Countries Lab",
-        "projectPath": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\MVC Countries Lab\\MVC Countries Lab\\MVC Countries Lab.csproj",
+        "projectPath": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Labs\\Week 4\\MVC Countries Lab\\MVC Countries Lab\\MVC Countries Lab.csproj",
         "packagesPath": "C:\\Users\\Ramses\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\MVC Countries Lab\\MVC Countries Lab\\obj\\",
+        "outputPath": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Labs\\Week 4\\MVC Countries Lab\\MVC Countries Lab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ramses\\AppData\\Roaming\\NuGet\\NuGet.Config",
